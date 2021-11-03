@@ -16,7 +16,9 @@ height: 160px;
   .name {
   dispaly: grid;
   grid-template-columns: 100px 1fr;}
-  
+  .navigation {
+  display: flex;
+  justify-content: center;}
   h1 {
 text-indent: -9999px;
 width: 940px;
