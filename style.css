@@ -13,7 +13,11 @@ border: 2px solid #000000;
 header {
 height: 160px;
 }
-h1 {
+  .name {
+  dispaly: grid;
+  grid-template-columns: 100px 1fr;}
+  
+  h1 {
 text-indent: -9999px;
 width: 940px;
 height: 130px;
